@@ -1,0 +1,6 @@
+
+$(document).ready(function(){
+    $("button").click(function(){
+        $("#square").css("width", 500)
+    });
+})
